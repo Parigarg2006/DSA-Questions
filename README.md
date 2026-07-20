@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Parigarg2006/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0189-rotate-array) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -23,6 +25,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Parigarg2006/DSA-Questions/tree/master/0072-edit-distance) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Parigarg2006/DSA-Questions/tree/master/0152-maximum-product-subarray) |
@@ -31,4 +34,12 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Parigarg2006/DSA-Questions/tree/master/0072-edit-distance) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
