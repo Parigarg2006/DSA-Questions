@@ -57,4 +57,8 @@
 |  |
 | ------- |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Parigarg2006/DSA-Questions/tree/master/0857-minimum-cost-to-hire-k-workers) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
