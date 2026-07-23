@@ -10,6 +10,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Parigarg2006/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/Parigarg2006/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Parigarg2006/DSA-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Parigarg2006/DSA-Questions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parigarg2006/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Parigarg2006/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Parigarg2006/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Parigarg2006/DSA-Questions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Backtracking
 |  |
@@ -84,4 +86,16 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0126-word-ladder-ii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Parigarg2006/DSA-Questions/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Parigarg2006/DSA-Questions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Parigarg2006/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
