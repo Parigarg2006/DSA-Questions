@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Parigarg2006/DSA-Questions/tree/master/0072-edit-distance) |
+| [0126-word-ladder-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0126-word-ladder-ii) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0052-n-queens-ii) |
+| [0126-word-ladder-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0126-word-ladder-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -74,4 +76,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Parigarg2006/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0126-word-ladder-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
