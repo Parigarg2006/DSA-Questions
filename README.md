@@ -28,6 +28,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Parigarg2006/DSA-Questions/tree/master/0072-edit-distance) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -37,11 +38,13 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Parigarg2006/DSA-Questions/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0126-word-ladder-ii) |
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
