@@ -58,6 +58,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Parigarg2006/DSA-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Parigarg2006/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Parigarg2006/DSA-Questions/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Parigarg2006/DSA-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Parigarg2006/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Parigarg2006/DSA-Questions/tree/master/0072-edit-distance) |
@@ -117,6 +118,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parigarg2006/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Parigarg2006/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Parigarg2006/DSA-Questions/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Parigarg2006/DSA-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0126-word-ladder-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0126-word-ladder-ii) |
 | [0149-max-points-on-a-line](https://github.com/Parigarg2006/DSA-Questions/tree/master/0149-max-points-on-a-line) |
 ## Breadth-First Search
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parigarg2006/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Parigarg2006/DSA-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/Parigarg2006/DSA-Questions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
