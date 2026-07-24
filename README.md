@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Parigarg2006/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0189-rotate-array) |
@@ -72,6 +74,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/0015-3sum) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Parigarg2006/DSA-Questions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Heap (Priority Queue)
 |  |
