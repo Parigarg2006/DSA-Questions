@@ -128,6 +128,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Parigarg2006/DSA-Questions/tree/master/0100-same-tree) |
 | [0126-word-ladder-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0126-word-ladder-ii) |
 ## Queue
 |  |
@@ -175,4 +176,16 @@
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0212-word-search-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Parigarg2006/DSA-Questions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Parigarg2006/DSA-Questions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Parigarg2006/DSA-Questions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
