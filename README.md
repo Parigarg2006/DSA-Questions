@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Parigarg2006/DSA-Questions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
+| [0068-text-justification](https://github.com/Parigarg2006/DSA-Questions/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Parigarg2006/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0149-max-points-on-a-line](https://github.com/Parigarg2006/DSA-Questions/tree/master/0149-max-points-on-a-line) |
@@ -65,6 +66,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Parigarg2006/DSA-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Parigarg2006/DSA-Questions/tree/master/0044-wildcard-matching) |
+| [0068-text-justification](https://github.com/Parigarg2006/DSA-Questions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Parigarg2006/DSA-Questions/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0212-word-search-ii) |
@@ -188,4 +190,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Parigarg2006/DSA-Questions/tree/master/0100-same-tree) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Parigarg2006/DSA-Questions/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
