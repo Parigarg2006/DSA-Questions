@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Parigarg2006/DSA-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Parigarg2006/DSA-Questions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/Parigarg2006/DSA-Questions/tree/master/0068-text-justification) |
@@ -31,6 +32,7 @@
 | [0011-container-with-most-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Parigarg2006/DSA-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Parigarg2006/DSA-Questions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0189-rotate-array) |
