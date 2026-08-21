@@ -29,6 +29,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parigarg2006/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Parigarg2006/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Parigarg2006/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Parigarg2006/DSA-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Two Pointers
 |  |
@@ -50,6 +51,7 @@
 | [0013-roman-to-integer](https://github.com/Parigarg2006/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/Parigarg2006/DSA-Questions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0189-rotate-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Parigarg2006/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Parigarg2006/DSA-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Parigarg2006/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -215,4 +218,13 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Parigarg2006/DSA-Questions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Parigarg2006/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Parigarg2006/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Parigarg2006/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
