@@ -51,6 +51,7 @@
 | [0013-roman-to-integer](https://github.com/Parigarg2006/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/Parigarg2006/DSA-Questions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0189-rotate-array) |
+| [1927-sum-game](https://github.com/Parigarg2006/DSA-Questions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Parigarg2006/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
@@ -80,6 +81,7 @@
 | [0072-edit-distance](https://github.com/Parigarg2006/DSA-Questions/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0212-word-search-ii) |
+| [1927-sum-game](https://github.com/Parigarg2006/DSA-Questions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parigarg2006/DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
@@ -99,6 +101,7 @@
 | [0044-wildcard-matching](https://github.com/Parigarg2006/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Parigarg2006/DSA-Questions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1386-cinema-seat-allocation](https://github.com/Parigarg2006/DSA-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Parigarg2006/DSA-Questions/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -227,4 +230,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Parigarg2006/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Parigarg2006/DSA-Questions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
