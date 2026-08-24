@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Parigarg2006/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -79,6 +80,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Parigarg2006/DSA-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Parigarg2006/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Parigarg2006/DSA-Questions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Parigarg2006/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Parigarg2006/DSA-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Parigarg2006/DSA-Questions/tree/master/0044-wildcard-matching) |
@@ -202,6 +204,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Parigarg2006/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0212-word-search-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0212-word-search-ii) |
 ## Matrix
 |  |
