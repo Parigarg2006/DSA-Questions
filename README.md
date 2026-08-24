@@ -27,6 +27,7 @@
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Parigarg2006/DSA-Questions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1386-cinema-seat-allocation](https://github.com/Parigarg2006/DSA-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parigarg2006/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1872-stone-game-viii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Parigarg2006/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Parigarg2006/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -51,6 +52,7 @@
 | [0013-roman-to-integer](https://github.com/Parigarg2006/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/Parigarg2006/DSA-Questions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0189-rotate-array) |
+| [1872-stone-game-viii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Parigarg2006/DSA-Questions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Parigarg2006/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
@@ -64,6 +66,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Parigarg2006/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Parigarg2006/DSA-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [1872-stone-game-viii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## String
 |  |
@@ -233,5 +236,18 @@
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Parigarg2006/DSA-Questions/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
