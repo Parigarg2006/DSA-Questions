@@ -81,6 +81,7 @@
 | [0012-integer-to-roman](https://github.com/Parigarg2006/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Parigarg2006/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Parigarg2006/DSA-Questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Parigarg2006/DSA-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Parigarg2006/DSA-Questions/tree/master/0044-wildcard-matching) |
@@ -93,6 +94,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Parigarg2006/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -257,4 +259,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1872-stone-game-viii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
