@@ -48,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Parigarg2006/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Parigarg2006/DSA-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Parigarg2006/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/Parigarg2006/DSA-Questions/tree/master/0149-max-points-on-a-line) |
@@ -126,6 +127,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Parigarg2006/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Parigarg2006/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
 ## Divide and Conquer
 |  |
@@ -173,6 +175,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Parigarg2006/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Parigarg2006/DSA-Questions/tree/master/0044-wildcard-matching) |
 ## Binary Search
 |  |
