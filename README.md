@@ -33,6 +33,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Parigarg2006/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Parigarg2006/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Parigarg2006/DSA-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Parigarg2006/DSA-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,11 +159,13 @@
 | [1386-cinema-seat-allocation](https://github.com/Parigarg2006/DSA-Questions/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parigarg2006/DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Parigarg2006/DSA-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Parigarg2006/DSA-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Parigarg2006/DSA-Questions/tree/master/0100-same-tree) |
 | [0126-word-ladder-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0126-word-ladder-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Parigarg2006/DSA-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
 |  |
 | ------- |
@@ -213,6 +216,7 @@
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0212-word-search-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Parigarg2006/DSA-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
 | ------- |
@@ -235,6 +239,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Parigarg2006/DSA-Questions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Parigarg2006/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Parigarg2006/DSA-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
 |  |
 | ------- |
