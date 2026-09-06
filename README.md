@@ -73,6 +73,7 @@
 | [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Parigarg2006/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Parigarg2006/DSA-Questions/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Parigarg2006/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Parigarg2006/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Parigarg2006/DSA-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -94,6 +95,7 @@
 | [0044-wildcard-matching](https://github.com/Parigarg2006/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/Parigarg2006/DSA-Questions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Parigarg2006/DSA-Questions/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Parigarg2006/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0212-word-search-ii) |
 | [1927-sum-game](https://github.com/Parigarg2006/DSA-Questions/tree/master/1927-sum-game) |
