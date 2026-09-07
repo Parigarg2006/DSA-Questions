@@ -77,6 +77,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Parigarg2006/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Parigarg2006/DSA-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0940-distinct-subsequences-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## String
@@ -98,6 +99,7 @@
 | [0115-distinct-subsequences](https://github.com/Parigarg2006/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0212-word-search-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Parigarg2006/DSA-Questions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parigarg2006/DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
