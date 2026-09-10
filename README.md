@@ -233,14 +233,17 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Parigarg2006/DSA-Questions/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Parigarg2006/DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Parigarg2006/DSA-Questions/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Parigarg2006/DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Parigarg2006/DSA-Questions/tree/master/0100-same-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Parigarg2006/DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Simulation
 |  |
 | ------- |
