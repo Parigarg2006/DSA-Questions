@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/Parigarg2006/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Parigarg2006/DSA-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Parigarg2006/DSA-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0835-image-overlap](https://github.com/Parigarg2006/DSA-Questions/tree/master/0835-image-overlap) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Parigarg2006/DSA-Questions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1386-cinema-seat-allocation](https://github.com/Parigarg2006/DSA-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parigarg2006/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -235,6 +236,7 @@
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0212-word-search-ii) |
+| [0835-image-overlap](https://github.com/Parigarg2006/DSA-Questions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Parigarg2006/DSA-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
