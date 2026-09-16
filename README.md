@@ -65,6 +65,7 @@
 | [0149-max-points-on-a-line](https://github.com/Parigarg2006/DSA-Questions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/Parigarg2006/DSA-Questions/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Parigarg2006/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Parigarg2006/DSA-Questions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Parigarg2006/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -85,6 +86,7 @@
 | [0152-maximum-product-subarray](https://github.com/Parigarg2006/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Parigarg2006/DSA-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0940-distinct-subsequences-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0940-distinct-subsequences-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Parigarg2006/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Parigarg2006/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -273,6 +275,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Parigarg2006/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Parigarg2006/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
@@ -290,6 +293,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Parigarg2006/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Parigarg2006/DSA-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/3904-smallest-stable-index-ii) |
