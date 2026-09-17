@@ -28,6 +28,7 @@
 | [0835-image-overlap](https://github.com/Parigarg2006/DSA-Questions/tree/master/0835-image-overlap) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Parigarg2006/DSA-Questions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1386-cinema-seat-allocation](https://github.com/Parigarg2006/DSA-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parigarg2006/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1872-stone-game-viii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -86,6 +87,7 @@
 | [0152-maximum-product-subarray](https://github.com/Parigarg2006/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Parigarg2006/DSA-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0940-distinct-subsequences-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Parigarg2006/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -181,6 +183,7 @@
 | [0126-word-ladder-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0126-word-ladder-ii) |
 | [0149-max-points-on-a-line](https://github.com/Parigarg2006/DSA-Questions/tree/master/0149-max-points-on-a-line) |
 | [1386-cinema-seat-allocation](https://github.com/Parigarg2006/DSA-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parigarg2006/DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Parigarg2006/DSA-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Parigarg2006/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -201,6 +204,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parigarg2006/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Parigarg2006/DSA-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/Parigarg2006/DSA-Questions/tree/master/0239-sliding-window-maximum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parigarg2006/DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Queue
 |  |
@@ -216,6 +220,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Parigarg2006/DSA-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Parigarg2006/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Parigarg2006/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Indexed Tree
