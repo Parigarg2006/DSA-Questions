@@ -124,6 +124,7 @@
 | [0212-word-search-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0212-word-search-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Parigarg2006/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Parigarg2006/DSA-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Parigarg2006/DSA-Questions/tree/master/1927-sum-game) |
@@ -138,6 +139,7 @@
 | [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Parigarg2006/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1096-brace-expansion-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -340,6 +342,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Enumeration
 |  |
 | ------- |
