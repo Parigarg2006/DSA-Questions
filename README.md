@@ -127,6 +127,7 @@
 | [0212-word-search-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0212-word-search-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Parigarg2006/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Parigarg2006/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Parigarg2006/DSA-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -147,6 +148,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Parigarg2006/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0678-valid-parenthesis-string](https://github.com/Parigarg2006/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Parigarg2006/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Parigarg2006/DSA-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -163,6 +165,7 @@
 | [0044-wildcard-matching](https://github.com/Parigarg2006/DSA-Questions/tree/master/0044-wildcard-matching) |
 | [0678-valid-parenthesis-string](https://github.com/Parigarg2006/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Parigarg2006/DSA-Questions/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Parigarg2006/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Parigarg2006/DSA-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Parigarg2006/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Parigarg2006/DSA-Questions/tree/master/1927-sum-game) |
@@ -359,6 +362,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Parigarg2006/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Parigarg2006/DSA-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Parigarg2006/DSA-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
