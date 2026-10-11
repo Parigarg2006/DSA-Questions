@@ -34,6 +34,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Parigarg2006/DSA-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Parigarg2006/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Parigarg2006/DSA-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Parigarg2006/DSA-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Parigarg2006/DSA-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -379,5 +380,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Parigarg2006/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Parigarg2006/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
