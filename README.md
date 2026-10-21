@@ -153,6 +153,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Parigarg2006/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parigarg2006/DSA-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Parigarg2006/DSA-Questions/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Parigarg2006/DSA-Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
