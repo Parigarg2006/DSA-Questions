@@ -27,6 +27,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Parigarg2006/DSA-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0835-image-overlap](https://github.com/Parigarg2006/DSA-Questions/tree/master/0835-image-overlap) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Parigarg2006/DSA-Questions/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [1254-number-of-closed-islands](https://github.com/Parigarg2006/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Parigarg2006/DSA-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Parigarg2006/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -270,6 +271,7 @@
 | [0126-word-ladder-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0126-word-ladder-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Parigarg2006/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Parigarg2006/DSA-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
 |  |
@@ -336,6 +338,7 @@
 | ------- |
 | [0212-word-search-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0212-word-search-ii) |
 | [0835-image-overlap](https://github.com/Parigarg2006/DSA-Questions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Parigarg2006/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Parigarg2006/DSA-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
@@ -346,6 +349,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Parigarg2006/DSA-Questions/tree/master/0100-same-tree) |
+| [1254-number-of-closed-islands](https://github.com/Parigarg2006/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Parigarg2006/DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -416,4 +420,8 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Parigarg2006/DSA-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Parigarg2006/DSA-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/Parigarg2006/DSA-Questions/tree/master/3886-sum-of-sortable-integers) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Parigarg2006/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
