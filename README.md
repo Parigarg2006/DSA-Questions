@@ -50,6 +50,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Parigarg2006/DSA-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Parigarg2006/DSA-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Parigarg2006/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Parigarg2006/DSA-Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Parigarg2006/DSA-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Parigarg2006/DSA-Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -273,6 +274,7 @@
 | [1096-brace-expansion-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Parigarg2006/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Parigarg2006/DSA-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Parigarg2006/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Queue
 |  |
 | ------- |
@@ -340,6 +342,7 @@
 | [0835-image-overlap](https://github.com/Parigarg2006/DSA-Questions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Parigarg2006/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Parigarg2006/DSA-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Parigarg2006/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -351,6 +354,7 @@
 | [0100-same-tree](https://github.com/Parigarg2006/DSA-Questions/tree/master/0100-same-tree) |
 | [1254-number-of-closed-islands](https://github.com/Parigarg2006/DSA-Questions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Parigarg2006/DSA-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Parigarg2006/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -424,4 +428,5 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Parigarg2006/DSA-Questions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Parigarg2006/DSA-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
