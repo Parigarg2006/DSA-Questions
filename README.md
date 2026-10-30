@@ -75,6 +75,7 @@
 | [0141-linked-list-cycle](https://github.com/Parigarg2006/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Parigarg2006/DSA-Questions/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Parigarg2006/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Parigarg2006/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
@@ -239,6 +240,7 @@
 | [0002-add-two-numbers](https://github.com/Parigarg2006/DSA-Questions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Parigarg2006/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Parigarg2006/DSA-Questions/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Parigarg2006/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Parigarg2006/DSA-Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Divide and Conquer
 |  |
