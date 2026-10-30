@@ -4,7 +4,7 @@ public:
         if(head == nullptr)
         return nullptr;
         // if(head->next == nullptr)
-        // return false;
+        // return nullptr;
         ListNode* slow=head;
         ListNode* fast=head;
         while(fast!=nullptr and fast->next!=nullptr)
