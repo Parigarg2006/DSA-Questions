@@ -76,6 +76,7 @@
 | [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Parigarg2006/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Parigarg2006/DSA-Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Parigarg2006/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Parigarg2006/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Parigarg2006/DSA-Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -90,6 +91,7 @@
 | [0013-roman-to-integer](https://github.com/Parigarg2006/DSA-Questions/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/Parigarg2006/DSA-Questions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Parigarg2006/DSA-Questions/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/Parigarg2006/DSA-Questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Parigarg2006/DSA-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Parigarg2006/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -269,6 +271,7 @@
 | [0126-word-ladder-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0126-word-ladder-ii) |
 | [0141-linked-list-cycle](https://github.com/Parigarg2006/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/Parigarg2006/DSA-Questions/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/Parigarg2006/DSA-Questions/tree/master/0202-happy-number) |
 | [1096-brace-expansion-ii](https://github.com/Parigarg2006/DSA-Questions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Parigarg2006/DSA-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Parigarg2006/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -470,6 +473,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Parigarg2006/DSA-Questions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Parigarg2006/DSA-Questions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Parigarg2006/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
