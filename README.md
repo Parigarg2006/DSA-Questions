@@ -26,6 +26,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Parigarg2006/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Parigarg2006/DSA-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Parigarg2006/DSA-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Parigarg2006/DSA-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/Parigarg2006/DSA-Questions/tree/master/0835-image-overlap) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Parigarg2006/DSA-Questions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1254-number-of-closed-islands](https://github.com/Parigarg2006/DSA-Questions/tree/master/1254-number-of-closed-islands) |
@@ -92,6 +93,7 @@
 | [0149-max-points-on-a-line](https://github.com/Parigarg2006/DSA-Questions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Parigarg2006/DSA-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Parigarg2006/DSA-Questions/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Parigarg2006/DSA-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Parigarg2006/DSA-Questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Parigarg2006/DSA-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Parigarg2006/DSA-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
