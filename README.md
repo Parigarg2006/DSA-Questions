@@ -14,6 +14,7 @@
 | [0027-remove-element](https://github.com/Parigarg2006/DSA-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Parigarg2006/DSA-Questions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Parigarg2006/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0068-text-justification](https://github.com/Parigarg2006/DSA-Questions/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Parigarg2006/DSA-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -118,6 +119,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Parigarg2006/DSA-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Parigarg2006/DSA-Questions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Parigarg2006/DSA-Questions/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Parigarg2006/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Parigarg2006/DSA-Questions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Parigarg2006/DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Parigarg2006/DSA-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -254,6 +256,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Parigarg2006/DSA-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Parigarg2006/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Parigarg2006/DSA-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Parigarg2006/DSA-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
